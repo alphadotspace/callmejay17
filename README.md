@@ -11,7 +11,6 @@
 ### ⚡ about me
 
 > i learn fast, build faster, and break things just to fix them better.  
-> my world is part code, part chaos — and fully mine.
 
 - 🎓 Aerospace engineering student  
 - 🔐 Cybersecurity explorer  
