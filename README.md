@@ -1,5 +1,5 @@
 <h1 align="center">
-   Better Call Jay 👾
+   alphadotspace 
 </h1>
 
 <p align="center">
@@ -13,11 +13,10 @@
 > i learn fast, build faster, and break things just to fix them better.  
 
 - 🎓 Aerospace engineering student  
-- 🔐 Cybersecurity explorer  
-- 🤖 AI & automation enthusiast  
-- 🎨 Design-curious  
-- 🧠 Startup mindset  
-- 🎮 Gamer + vibe-coder  
+-  Cybersecurity newbie
+-  AI & automation newbie
+- Design-curious  
+-   vibe-coder  
 
 ---
 
